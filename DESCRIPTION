@@ -1,0 +1,9 @@
+Package: InteractiveGraphs
+Type: Package
+Title: Make interactive scatterplots in R
+Version: 1.0
+Date: 2018-12-19
+Author: Magdalena Arnal Segura <marnal@imim.es>
+Maintainer: Magdalena Arnal <marnal@imim.es>
+Description: Package to make scatterplots and access each point name representing a gene
+License: MIT + file LICENSE
